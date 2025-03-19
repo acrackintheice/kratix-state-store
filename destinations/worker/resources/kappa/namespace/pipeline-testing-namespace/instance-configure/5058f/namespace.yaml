@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: pipeline-testing-namespace
+  name: paipeline-testing-namespace
